@@ -1,3 +1,3 @@
-#Projekti HTML
-
-###Ky eshte nje projekt vetem me HTML
+# Projekti HTML
+Rinesa Kuci
+### Ky eshte nje projekt vetem me HTML
